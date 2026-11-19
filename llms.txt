@@ -7,7 +7,7 @@
 
 ## Tjenester
 
-- Rørleggerarbeid: Arbeid med vann, avløp og rør, på bad, på kjøkken og ellers i boligen.
+- Rørleggerarbeid: Vannrør, avløp, bad, kjøkken, lekkasjer og varmtvannsbereder i boligen.
 
 ## Om nettsiden
 
