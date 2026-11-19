@@ -1,0 +1,25 @@
+{
+  "name": "Jordan Vvs AS",
+  "short_name": "Jordan Vvs",
+  "description": "Jordan Vvs AS utfører rørleggerarbeid i Flateby. Ta kontakt på telefon eller e-post og fortell hva som skal gjøres.",
+  "lang": "nb",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0f4c5c",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
